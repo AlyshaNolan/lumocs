@@ -1,4 +1,4 @@
-source: /docs/src/
+source: /docs/
 collections_config:
   pages:
     path: ''
